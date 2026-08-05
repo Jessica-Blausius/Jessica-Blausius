@@ -152,7 +152,7 @@ Systems Analysis and Development
 PUC Minas · In progress
 
 Bachelor's Degree in Business Administration
-UNIOESTE · UniCesumar
+UniCesumar · Studies also completed at UNIOESTE
 
 <br>
 
