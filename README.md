@@ -78,36 +78,13 @@ I’m currently strengthening my foundations in **software development** while e
 
 **Circular Fashion Platform · Full-Stack Web Application**
 
-A collaborative web application built to encourage clothing reuse through a virtual credit-based exchange system, promoting circular fashion and more conscious consumption.
+A collaborative platform for clothing exchange through a virtual credit system, developed with ASP.NET Core MVC as an academic project at PUC Minas.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-18181b?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-18181b?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-18181b?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-18181b?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-18181b?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-18181b?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-18181b?style=flat-square&logo=css3&logoColor=white" />
-</p>
+`C#` · `ASP.NET Core MVC` · `Entity Framework` · `SQL Server` · `JavaScript` · `Azure`
 
-#### My Contribution
+**My role:** Product Owner · UX/UI · Development · System Modeling
 
-**Product Owner · Development & Design Team**
-
-`Product Thinking` · `UX/UI` · `Wireframing` · `UML` · `Use Case Modeling` · `Front-end Development` · `Interface Refinement`
-
-I worked as **Product Owner** within the project's academic Scrum structure while also contributing directly to development, design and system modeling.
-
-I created the initial wireframes and defined the visual direction of the application, establishing a clear interface foundation for the development process. I also created the project's **UML Use Case Diagram**, helping model system interactions and functional requirements.
-
-On the implementation side, I developed key areas of the application, including the **Home** and **Admin interfaces**. I also worked on the final refinement of the platform, improving interface consistency and resolving visual and functional issues across different areas of the application.
-
-The project was organized using **Scrum**, GitHub Projects and a Kanban workflow for backlog management, development, review and delivery.
-
-**Academic Project · PUC Minas · 2026**
-
-→ **Explore ReVeste**
+[→ Explore ReVeste](https://github.com/Jessica-Blausius/reveste)
 
 <br>
 
@@ -115,26 +92,13 @@ The project was organized using **Scrum**, GitHub Projects and a Kanban workflow
 
 **Personal Finance Management · Front-End Web Application**
 
-A collaborative web application focused on making personal finance management more accessible. Poupaí helps users organize income, expenses, financial goals and other aspects of their personal budget through a simple and intuitive interface.
+A collaborative web application designed to make personal finance management simpler through income, expense and financial goal tracking.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-18181b?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-18181b?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-18181b?style=flat-square&logo=github&logoColor=white" />
-</p>
+`JavaScript` · `HTML` · `CSS` · `GitHub Pages`
 
-#### My Contribution
+**My role:** Front-end Development · UI Design · Software Testing · Documentation
 
-`Front-end Development` · `UI Design` · `Software Testing` · `Test Planning` · `Technical Documentation`
-
-I contributed as part of both the **development and design teams**, participating in the development of the application's interface and functionality.
-
-I also contributed to software quality activities, including test planning, technical documentation and functional testing. I was responsible for executing and documenting tests for **due-date notifications** and the **income and expense forecast interfaces**, validating interface behavior and key user interactions.
-
-**Academic Project · PUC Minas · 2025**
-
-→ **Explore Poupaí**
+[→ Explore Poupaí](LINK-DO-SEU-REPOSITORIO)
 
 <br>
 
